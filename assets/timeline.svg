@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Career timeline">
+<style>
+text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.t-h{font-size:14px;font-weight:700;fill:#f0f6fc}
+.t-s{font-size:12px}
+.t-y{font-size:11px;fill:#6e7681;font-family:ui-monospace,Menlo,Consolas,monospace}
+.t-axis{stroke-dasharray:1;stroke-dashoffset:1;animation:t-draw 10s ease-in-out infinite}
+@keyframes t-draw{0%{stroke-dashoffset:1}35%,92%{stroke-dashoffset:0;opacity:1}100%{opacity:0;stroke-dashoffset:0}}
+.t-e{opacity:0;animation:t-in 10s ease-out infinite}
+@keyframes t-in{0%{opacity:0;transform:translateY(8px)}5%,92%{opacity:1;transform:none}100%{opacity:0}}
+.t-now{animation:t-pulse 1.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes t-pulse{0%,100%{transform:scale(1);opacity:.9}50%{transform:scale(2.6);opacity:0}}
+@media (prefers-reduced-motion:reduce){.t-axis,.t-e,.t-now{animation:none;opacity:1;stroke-dashoffset:0}}
+</style>
+<rect width="1200" height="300" rx="14" fill="#0d1117" stroke="#30363d"/>
+<line class="t-axis" pathLength="1" x1="110" x2="1090" y1="150" y2="150" stroke="#30363d" stroke-width="3" stroke-linecap="round"/>
+<g class="t-e" style="animation-delay:0.40s">
+<line x1="140.0" x2="140.0" y1="150" y2="110" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="3 3"/>
+<circle cx="140.0" cy="150" r="7" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+<text x="140.0" y="80.0" text-anchor="middle" class="t-h">2018 · Started Financial Engineering</text>
+<text x="140.0" y="96.0" text-anchor="middle" class="t-s" fill="#58a6ff">Universidad de Medellín</text>
+</g><g class="t-e" style="animation-delay:0.85s">
+<line x1="324.0" x2="324.0" y1="150" y2="190" stroke="#9198a1" stroke-width="1.5" stroke-dasharray="3 3"/>
+<circle cx="324.0" cy="150" r="7" fill="#0d1117" stroke="#9198a1" stroke-width="3"/>
+<text x="324.0" y="210.0" text-anchor="middle" class="t-h">2020 · Customer Service (EN)</text>
+<text x="324.0" y="228.0" text-anchor="middle" class="t-s" fill="#9198a1">Teleperformance</text>
+</g><g class="t-e" style="animation-delay:1.30s">
+<line x1="508.0" x2="508.0" y1="150" y2="110" stroke="#9198a1" stroke-width="1.5" stroke-dasharray="3 3"/>
+<circle cx="508.0" cy="150" r="7" fill="#0d1117" stroke="#9198a1" stroke-width="3"/>
+<text x="508.0" y="80.0" text-anchor="middle" class="t-h">2022 · Financial Assistant</text>
+<text x="508.0" y="96.0" text-anchor="middle" class="t-s" fill="#9198a1">Royal SAS</text>
+</g><g class="t-e" style="animation-delay:1.75s">
+<line x1="692.0" x2="692.0" y1="150" y2="190" stroke="#2dd4bf" stroke-width="1.5" stroke-dasharray="3 3"/>
+<circle cx="692.0" cy="150" r="7" fill="#0d1117" stroke="#2dd4bf" stroke-width="3"/>
+<text x="692.0" y="210.0" text-anchor="middle" class="t-h">2023 · FI &amp; FX Desk Intern</text>
+<text x="692.0" y="228.0" text-anchor="middle" class="t-s" fill="#2dd4bf">Protección S.A.</text>
+</g><g class="t-e" style="animation-delay:2.20s">
+<line x1="876.0" x2="876.0" y1="150" y2="110" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="3 3"/>
+<circle cx="876.0" cy="150" r="7" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+<text x="876.0" y="80.0" text-anchor="middle" class="t-h">2023 · Graduated 🎓</text>
+<text x="876.0" y="96.0" text-anchor="middle" class="t-s" fill="#58a6ff">B.Sc. Financial Engineering</text>
+</g><g class="t-e" style="animation-delay:2.65s">
+<line x1="1060.0" x2="1060.0" y1="150" y2="190" stroke="#2dd4bf" stroke-width="1.5" stroke-dasharray="3 3"/>
+<circle cx="1060.0" cy="150" r="7" fill="#0d1117" stroke="#2dd4bf" stroke-width="3"/>
+<text x="1060.0" y="210.0" text-anchor="middle" class="t-h">2025 · Data Analyst &amp; Automation</text>
+<text x="1060.0" y="228.0" text-anchor="middle" class="t-s" fill="#2dd4bf">Freelance · Present</text>
+</g>
+<circle class="t-now" cx="1060.0" cy="150" r="7" fill="#2dd4bf"/>
+<text x="600.0" y="284" text-anchor="middle" class="t-y">Career timeline · 2018 → today</text>
+</svg>
