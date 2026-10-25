@@ -8,24 +8,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-camilo-ospina-cardona-1b2147370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:juanoscd@outlook.com"><img src="https://img.shields.io/badge/juanoscd@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+
 </p>
 
-## 👨‍💼 About me
 
-```python
-class JuanCamilo:
-    role       = "Financial Engineer"
-    focus      = ["Financial & Quantitative Analysis", "Automation", "Capital Markets"]
-    location   = "Medellín, Colombia 🇨🇴"
-
-    now        = "Financial Data Analyst & Automation Programmer · Freelance"
-    previously = ["Protección S.A. · Fixed Income & FX Desk (Intern)",
-                  "Royal SAS · Financial Assistant"]
-    education  = "B.Sc. Financial Engineering · Universidad de Medellín (2018 – 2023)"
-
-    languages  = {"Spanish": "native", "English": "B2"}
-```
 
 ## 🧭 Career
 
