@@ -18,21 +18,20 @@ I use Python and Excel to analyze financial data, build models, and automate pro
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3><a href="https://github.com/juanoscd/Portafolio-BVC">📊 Portafolio-BVC</a></h3>
-      Portfolio optimization with Colombian stocks.<br/><br/>
-      <code>Markowitz</code> <code>VaR / CVaR</code> <code>Monte Carlo</code> <code>Walk-forward</code>
+      Portfolio optimization with Colombian stocks
+      <code></code> <code></code> <code></code> <code></code>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3><a href="https://github.com/juanoscd/Series-de-tiempo-del-oro">🥇 Gold Time Series</a></h3>
-      Modeling and forecasting gold volatility.<br/><br/>
-      <code>ARIMA</code> <code>GARCH</code> <code>VAR</code> <code>Returns</code>
+      Modeling and forecasting gold volatility
+      <code></code> <code></code> <code></code> <code></code>
     </td>
-        <td width="50%" valign="top">
+        <td width="25%" valign="top">
       <h3><a href="https://github.com/juanoscd/Analisis-Estados-Financieros-CIBEST">📊 Financial Analysis</a></h3>
-      Portfolio optimization with Colombian stocks.<br/><br/>
-      <code>Markowitz</code> <code>VaR / CVaR</code> <code>Monte Carlo</code> <code>Walk-forward</code>
-    </td>
+      Financial analysis and indicators
+      
   </tr>
 </table>
 
