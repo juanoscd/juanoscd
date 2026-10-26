@@ -11,7 +11,9 @@
 
 
 <p align="center">
-I use Python and Excel to analyze financial data, build models, and automate processes, with a focus on capital markets I do also go into deep finance
+I use Python and Excel to analyze financial data, build models, 
+and automate processes, with a focus on capital markets
+I do also go into deep finance
 </p>
 
 ## 📂 Projects
