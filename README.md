@@ -28,6 +28,11 @@ I use Python and Excel to analyze financial data, build models, and automate pro
       Modeling and forecasting gold volatility.<br/><br/>
       <code>ARIMA</code> <code>GARCH</code> <code>VAR</code> <code>Returns</code>
     </td>
+        <td width="50%" valign="top">
+      <h3><a href="https://github.com/juanoscd/Analisis-Estados-Financieros-CIBEST">📊 Financial Analysis</a></h3>
+      Portfolio optimization with Colombian stocks.<br/><br/>
+      <code>Markowitz</code> <code>VaR / CVaR</code> <code>Monte Carlo</code> <code>Walk-forward</code>
+    </td>
   </tr>
 </table>
 
