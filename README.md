@@ -8,14 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/juanoscd?tab=repositories"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://github.com/juanoscd?tab=repositories"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/></a>
-  <a href="https://github.com/juanoscd/Portafolio-BVC"><img src="https://img.shields.io/badge/Financial_Analysis-0B3D91?style=for-the-badge" alt="Financial Analysis"/></a>
-  <a href="https://github.com/juanoscd/Series-de-tiempo-del-oro"><img src="https://img.shields.io/badge/Quant_Analysis-0D9488?style=for-the-badge" alt="Quant Analysis"/></a>
-  <a href="https://github.com/juanoscd?tab=repositories"><img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/></a>
-  <a href="https://www.linkedin.com/in/juan-camilo-ospina-cardona-1b2147370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+
 
 <p align="center">
   <b>Financial Engineer</b> · Medellín, Colombia<br/>
@@ -40,10 +33,12 @@
 </table>
 
 ## 🛠️ Stack
-
-<a href="https://github.com/juanoscd?tab=repositories">
-  <img src="./assets/stack.svg" alt="Stack: Financial, Quant, Machine Learning, Excel, Python, Markets" width="100%"/>
-</a>
+<p align="center">
+  <a href="https://github.com/juanoscd?tab=repositories"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://github.com/juanoscd?tab=repositories"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/></a>
+  <a href="https://github.com/juanoscd/Portafolio-BVC"><img src="https://img.shields.io/badge/Financial_Analysis-0B3D91?style=for-the-badge" alt="Financial Analysis"/></a>
+  <a href="https://github.com/juanoscd/Series-de-tiempo-del-oro"><img src="https://img.shields.io/badge/Quant_Analysis-0D9488?style=for-the-badge" alt="Quant Analysis"/></a>
+  <a href="https://github.com/juanoscd?tab=repositories"><img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/></a>
 
 ## 🧭 Career
 
