@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/juanoscd?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=760&lines=Python+%7C+Excel+%7C+Machine+Learning;Financial+%26+Quant+Analysis" alt="Financial & Quant Analysis"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=760&lines=Financial+%26+Quant+Analysis" alt="Financial & Quant Analysis"/>
   </a>
 </p>
 
