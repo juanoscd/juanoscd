@@ -11,8 +11,7 @@
 
 
 <p align="center">
-  <b>Financial Engineer</b> · Medellín, Colombia<br/>
-  Where finance meets data: I build models to <b>measure risk</b>, <b>optimize portfolios</b> and <b>forecast markets</b>.
+I use Python and Excel to analyze financial data, build models, and automate processes, with a focus on capital markets I do also go into deep finance
 </p>
 
 ## 📂 Projects
