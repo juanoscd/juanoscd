@@ -21,12 +21,10 @@ I use Python and Excel to analyze financial data, build models, and automate pro
     <td width="25%" valign="top">
       <h3><a href="https://github.com/juanoscd/Portafolio-BVC">📊 Portafolio-BVC</a></h3>
       Portfolio optimization with Colombian stocks
-      <code></code> <code></code> <code></code> <code></code>
     </td>
     <td width="25%" valign="top">
       <h3><a href="https://github.com/juanoscd/Series-de-tiempo-del-oro">🥇 Gold Time Series</a></h3>
       Modeling and forecasting gold volatility
-      <code></code> <code></code> <code></code> <code></code>
     </td>
         <td width="25%" valign="top">
       <h3><a href="https://github.com/juanoscd/Analisis-Estados-Financieros-CIBEST">📊 Financial Analysis</a></h3>
