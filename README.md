@@ -21,15 +21,15 @@ I do also go into deep finance
 <table>
   <tr>
     <td width="25%" valign="top">
-      <h3><a href="https://github.com/juanoscd/Portafolio-BVC">📊 Portafolio-BVC</a></h3>
+      <h3><a href="https://github.com/juanoscd/Portafolio-BVC">Portafolio-BVC</a></h3>
       Portfolio optimization with Colombian stocks
     </td>
     <td width="25%" valign="top">
-      <h3><a href="https://github.com/juanoscd/Series-de-tiempo-del-oro">🥇 Gold Time Series</a></h3>
+      <h3><a href="https://github.com/juanoscd/Series-de-tiempo-del-oro">Gold Futures Time Series</a></h3>
       Modeling and forecasting gold volatility
     </td>
         <td width="25%" valign="top">
-      <h3><a href="https://github.com/juanoscd/Analisis-Estados-Financieros-CIBEST">📊 Financial Analysis</a></h3>
+      <h3><a href="https://github.com/juanoscd/Analisis-Estados-Financieros-CIBEST">Financial Analysis</a></h3>
       Financial analysis and indicators
       
   </tr>
